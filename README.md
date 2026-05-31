@@ -2,7 +2,7 @@
 
 ### Frontend Developer | React & Next.js Specialist
 
-I'm a Frontend Developer with 4+ years of experience building scalable, high-performance web applications. I enjoy transforming complex business requirements into intuitive user experiences and developing modern applications using React, Next.js, TypeScript, and Node.js.
+I'm a Frontend Developer with 5+ years of experience building scalable, high-performance web applications. I enjoy transforming complex business requirements into intuitive user experiences and developing modern applications using React, Next.js, TypeScript, and Node.js.
 
 🚀 Currently building enterprise-grade applications and exploring full-stack development, cloud technologies, Docker, and CI/CD.
 
