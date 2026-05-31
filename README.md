@@ -16,7 +16,7 @@ I'm a Frontend Developer with 4+ years of experience building scalable, high-per
 * 🔧 Experienced in building CRM systems, dashboards, and enterprise applications
 * 📊 Passionate about performance optimization and clean architecture
 * 🌐 Portfolio: https://www.nitishpro.dev/
-* 📫 Reach me at: [your-email@nitishpro.dev](mailto:contact@nitishpro.dev)
+* 📫 Reach me at: [contact@nitishpro.dev](mailto:contact@nitishpro.dev)
 
 ---
 
