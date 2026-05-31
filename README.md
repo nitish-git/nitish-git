@@ -10,7 +10,7 @@ I'm a Frontend Developer with 5+ years of experience building scalable, high-per
 
 ## 👨‍💻 About Me
 
-* 💼 Frontend Developer with 4+ years of professional experience
+* 💼 Frontend Developer with 5+ years of professional experience
 * 🌱 Currently learning **Docker, CI/CD, and Cloud Technologies**
 * ⚛️ Specialized in **React.js, Next.js, TypeScript, and Modern JavaScript**
 * 🔧 Experienced in building CRM systems, dashboards, and enterprise applications
