@@ -24,34 +24,27 @@ I'm a Frontend Developer with 4+ years of experience building scalable, high-per
 
 ### Frontend
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* TypeScript
-* React.js
-* Next.js
-* Redux
-* Tailwind CSS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
+</p>
 
 ### Backend
 
-* Node.js
-* Express.js
-* MongoDB
-* REST APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
 ### Authentication & Security
 
-* JWT
-* OAuth
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,git" />
+</p>
 
-### Tools & Platforms
+### Tools & Cloud
 
-* Git & GitHub
-* Docker
-* CI/CD
-* AWS
-* VS Code
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,postman" />
+</p>
 
 ---
 
