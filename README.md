@@ -34,12 +34,6 @@ I'm a Frontend Developer with 4+ years of experience building scalable, high-per
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Authentication & Security
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github,git" />
-</p>
-
 ### Tools & Cloud
 
 <p align="left">
@@ -83,14 +77,6 @@ Large-screen analytics and project tracking dashboard.
 * Built desktop-first responsive interfaces
 * Created data-driven visual experiences
 * Developed optimized dashboard components
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitish-git\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish-git\&layout=compact)
 
 ---
 
