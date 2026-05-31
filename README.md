@@ -1,16 +1,112 @@
-## Hi there 👋
+# Hi 👋, I'm Nitish Kumar
 
-<!--
-**nitish-git/nitish-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React & Next.js Specialist
 
-Here are some ideas to get you started:
+I'm a Frontend Developer with 4+ years of experience building scalable, high-performance web applications. I enjoy transforming complex business requirements into intuitive user experiences and developing modern applications using React, Next.js, TypeScript, and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently building enterprise-grade applications and exploring full-stack development, cloud technologies, Docker, and CI/CD.
+
+---
+
+## 👨‍💻 About Me
+
+* 💼 Frontend Developer with 4+ years of professional experience
+* 🌱 Currently learning **Docker, CI/CD, and Cloud Technologies**
+* ⚛️ Specialized in **React.js, Next.js, TypeScript, and Modern JavaScript**
+* 🔧 Experienced in building CRM systems, dashboards, and enterprise applications
+* 📊 Passionate about performance optimization and clean architecture
+* 🌐 Portfolio: https://www.nitishpro.dev/
+* 📫 Reach me at: [your-email@nitishpro.dev](mailto:contact@nitishpro.dev)
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* TypeScript
+* React.js
+* Next.js
+* Redux
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
+
+### Authentication & Security
+
+* JWT
+* OAuth
+
+### Tools & Platforms
+
+* Git & GitHub
+* Docker
+* CI/CD
+* AWS
+* VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### MoverMate CRM
+
+Enterprise CRM platform for the moving industry.
+
+**Tech Stack:** React.js, TypeScript, REST APIs
+
+* Improved application performance and user experience
+* Developed responsive and reusable UI components
+* Collaborated with product and backend teams
+
+---
+
+### Daimlas People Ecosystem
+
+Team management and employee collaboration platform.
+
+**Tech Stack:** React.js, Redux, Node.js
+
+* Integrated frontend applications with backend services
+* Optimized state management and API communication
+* Enhanced application usability and performance
+
+---
+
+### Daimlas Data Visualization
+
+Large-screen analytics and project tracking dashboard.
+
+**Tech Stack:** React.js, JavaScript, Data Visualization
+
+* Built desktop-first responsive interfaces
+* Created data-driven visual experiences
+* Developed optimized dashboard components
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitish-git\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish-git\&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+* Portfolio: https://www.nitishpro.dev/
+* LinkedIn: https://linkedin.com/in/nitish-kr
+* GitHub: https://github.com/nitish-git
+
+---
+
+⭐ If you find my work interesting, feel free to connect or collaborate on exciting projects!
